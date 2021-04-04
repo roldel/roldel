@@ -12,7 +12,7 @@
 
 - :snake: Python met those criteria :snake:
 
-- :satellite: WEB : I build websites and API solutions, using the Django framework ( one of my favourite tools to work with ) and its Django REST framework module. I enjoy backend development, its deployment on different platforms and understanding the associated security processes lock
+- :satellite: WEB : I build websites and API solutions, using the Django framework ( one of my favourite tools to work with ) and its Django REST framework module. I enjoy backend development, its deployment on different platforms and understanding the associated security processes :lock:
 
 - :radio: ELECTRONICS : Playing with Arduino boards, I have created circuits to suit my own needs, such as an LCD thermometer and a rear car parking sensor, coded in C++. I am now using the Firmata protocol, in order to write python code, to collect sensor data, pass it through custom processes and drive electronic gear
 
