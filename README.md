@@ -8,7 +8,7 @@
 
 - :eyes: Coding wise, I’m mainly interested in web technologies, electronics and artificial intelligence
 
-- :computer: To cover this large scope, I looked for a versatile technology, that would allow for skills and knowledges transfer, between those different fields
+- :computer: To cover this large scope, I looked for a versatile technology, that would allow for skills and knowledges transfer, between these different fields
 
 - :snake: Python met those criteria :snake:
 
